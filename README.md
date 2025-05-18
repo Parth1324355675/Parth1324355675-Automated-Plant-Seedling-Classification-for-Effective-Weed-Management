@@ -1,1 +1,1 @@
-# Parth1324355675-Automated-Plant-Seedling-Classification-for-Effective-Weed-Management
+
